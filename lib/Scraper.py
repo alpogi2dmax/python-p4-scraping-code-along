@@ -32,5 +32,3 @@ class Scraper:
     def print_courses(self):
         for course in self.make_courses():
             print(course)
-
-ipdb.set_trace()
